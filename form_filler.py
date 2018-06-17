@@ -19,10 +19,7 @@ war_link = {
 	
 in_fail_set = {("a","b"), ("b","a"), ("b","j"), ("b","m"), ("b","r"),
                ("l","j"), ("m","a"), ("m","b"), ("m","j"), ("m","m"),
-               ("m", "be")}#, ("m", "ben")} #m, ben doesn't work,  see below
-
-#in_fail_set = {("m", "ben")} #DOESN'T WORK - NEEDS TO BE REDONE TO GET ACCENTS OR SOMETHING...
-#HAD 332 and we only got 300...
+               ("m", "be")}#, ("m", "ben")} 
 
 al_fail_set = {("b","a"), ("b","j"), ("b","m"), ("b","r"), ("c","j"), 
                ("l","j"), ("m","a"), ("m","j"), ("m","m")}

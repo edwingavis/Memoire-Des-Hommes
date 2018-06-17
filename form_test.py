@@ -1,12 +1,3 @@
-#FRENCH NOTES: KOREA HAS 288 CASUALTIES
-#INDOCHINA HAD 39000 CASUALTIES??? <---SURE SEEMS LIKE IT...
-#Could be another 300000 in algeria
-
-#WELL I CAN GET KOREA EASY... 
-#INDOCHINA / ALGERIA MAY BE HARDER
-#I SEEM TO HAVE CRASHED THE FRENCH MEMORIAL SITE LOL
-
-
 from pathlib import Path
 from bs4 import BeautifulSoup
 from selenium import webdriver
